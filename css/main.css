@@ -171,13 +171,13 @@ h5, h6          { font-weight: bolder }
         display: block;
         width: 30px;
         height: 30px;
-        background: url('../img/sm.png') no-repeat;
+        background: url('../images/sm.png') no-repeat;
         background-position: 0 0;
     }
 
 
     header ul.social li a:hover{
-        background: url('../img/sm_hover.png') no-repeat;
+        background: url('../images/sm_hover.png') no-repeat;
     }
 
 
@@ -240,7 +240,7 @@ h5, h6          { font-weight: bolder }
     width: 40px;
     height: 40px;
     cursor: pointer;
-    background: url('../img/men_icons.png') no-repeat;
+    background: url('../images/men_icons.png') no-repeat;
 }
 
 #menu_icon{    
@@ -343,7 +343,7 @@ h5, h6          { font-weight: bolder }
     overflow: hidden;
     display: block;
     position: relative;
-    background: url('../img/hero_image.jpg') no-repeat;
+    background: url('../images/filler-image-2.jpg') no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -375,7 +375,7 @@ h5, h6          { font-weight: bolder }
     display: block;
     width: 40px;
     height: 40px;
-    background: url('../img/p_navigation.png') no-repeat;
+    background: url('../images/p_navigation.png') no-repeat;
     background-position: 0 0;
 }
 
