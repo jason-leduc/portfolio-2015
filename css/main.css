@@ -95,7 +95,7 @@ h5, h6          { font-weight: bolder }
 }  
  
 .clearfix {  
-    *zoom: 1;  
+    zoom: 1;  
 }
 
 
