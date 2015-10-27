@@ -1,0 +1,43 @@
+
+                            
+/* TEAM */
+
+                            
+Graphic Designer: Jason Leduc
+
+                            
+Site: http://jason-leduc.github.io/portfolio-2015/
+
+                            
+Location: Ottawa, Canada
+
+                         
+                 
+                        [...]
+						
+
+							
+/* THANKS */
+
+							
+
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2015/10/26
+
+                            
+Standards: HTML5, CSS3, JavaScript
+
+                            
+Components: jekyll, jQuery
+
+                            
+Software: Brackets sprint 37 experimental build 0.37.0-12014, Adobe Illustrator CC 2015, Adobe Photoshop CC 2015, Adobe InDesign CC 2015
+   

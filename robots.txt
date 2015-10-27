@@ -1,0 +1,3 @@
+Sitemap: http://jason-leduc.github.io/portfolio-2015/sitemap.xml
+
+User-agent: *
