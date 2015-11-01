@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Details abouts me • Jason Leduc</title>
+	<title>Details about me • Jason Leduc</title>
 	<meta charset="utf-8">
 	<meta name="author" content="jason leduc">
 	<meta name="description" content="get the all the lowdown and dirt about me and what I do"/>
@@ -12,6 +12,11 @@
     <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
+  
+<ul class="skip-links">
+  <li><a href="#nav">Skip to navigation</a></li>
+  <li><a href="#main">Skip to main content</a></li>
+</ul>  
 
 	<header>
 		<div class="logo">
@@ -19,7 +24,7 @@
 		</div><!-- end logo -->
 
 		<div id="menu_icon"></div>
-		<nav>
+		<nav role="navigation" id="nav">
 			<ul>
 				<li><a href="index.html">Home</a></li>
 				<li><a href="about.html">About</a></li>
@@ -37,8 +42,10 @@
 				<li><a href="#" class="dribble" data-title="Dribble"></a></li>-->
 				<li><a href="#" class="rss" data-title="RSS"></a></li>
 			</ul><!-- end social -->
-
-		</div ><!-- end footer -->
+            <div class="rights">
+		      <p>© 2015 Jason Leduc</p>
+			</div><!-- end rights -->          
+		</div><!-- end footer -->
 	</header><!-- end header -->
 
 	<section class="main clearfix">
@@ -50,7 +57,7 @@
 		</section><!-- end top -->
 
 		<section class="wrapper">
-			<div class="content">
+			<div class="content" id="main">
 				<h2>I'm Jason Leduc, a Graphic Design student at Algonquin College.</h2>
 
 <p>I am a tireless seeker of knowledge, occasional purveyor of wisdom and also, coincindentally, a graphic designer.</p>

@@ -12,6 +12,11 @@
     <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
+  
+<ul class="skip-links">
+  <li><a href="#nav">Skip to navigation</a></li>
+  <li><a href="#main">Skip to main content</a></li>
+</ul>
 
 	<header>
 		<div class="logo">
@@ -19,7 +24,7 @@
 		</div><!-- end logo -->
 
 		<div id="menu_icon"></div>
-		<nav>
+		<nav role="navigation" id="nav">
 			<ul>
 				<li><a href="index.html">Home</a></li>
 				<li><a href="about.html">About</a></li>
@@ -37,8 +42,10 @@
 				<li><a href="#" class="dribble" data-title="Dribble"></a></li>-->
 				<li><a href="#" class="rss" data-title="RSS"></a></li>
 			</ul><!-- end social -->
-
-		</div ><!-- end footer -->
+            <div class="rights">
+		      <p>© 2015 Jason Leduc</p>
+			</div><!-- end rights -->
+		</div><!-- end footer -->
 	</header><!-- end header -->
 
 	<section class="main clearfix">
@@ -50,7 +57,7 @@
 		</section><!-- end top -->
 
 		<section class="wrapper">
-			<div class="content">
+			<div class="content" id="main">
 				<h2>Some information you should know...</h2>
 
 <h3>Can you design a logo for my business or a t-shirt for my band?</h3>
