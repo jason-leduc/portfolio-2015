@@ -4,7 +4,7 @@
     - Header
     - Home/portfolio 
     - Inner page 
-    - Map/Contact page  
+    - Contact page  
     - Tooltip 
     - Responsive code
 */
@@ -482,7 +482,7 @@ h5, h6          { font-weight: bolder }
 
 
 
-/*  Contact page map  */
+/*  Contact page  */
 #map .map_adresse{
     font-family: 'raleway-regular', arial;
     font-size: 14px;
