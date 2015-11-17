@@ -1,3 +1,3 @@
 permalink: pretty
-baseurl: /portfolio-2015
+baseurl: ""
 exclude: ['README.md']
