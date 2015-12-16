@@ -561,40 +561,6 @@ h5, h6          { font-weight: bolder }
 }
 
 
-
-
-
-
-
-/*  Contact page  */
-#map .map_adresse{
-    font-family: 'raleway-regular', arial;
-    font-size: 14px;
-    line-height: 22px;
-    letter-spacing: 1px;
-}
-
-#map .map_address,
-#map .map_tel{
-    padding: 5px;
-}
-
-#map .map_address .address,
-#map .map_tel .tel{
-    font-family: 'raleway-bold', arial;
-    font-weight: bolder;
-}
-
-#map img{
-    max-width: none;
-}
-
-
-
-
-
-
-
 /*  Tooltip  */
 .tooltip{
     display: block;
