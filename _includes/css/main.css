@@ -406,7 +406,7 @@ h5, h6          { font-weight: bolder }
     overflow: hidden;
     display: block;
     position: relative;
-    background: url('../images/filler-image-2.jpg') no-repeat;
+    background: url('../images/quote-book-inner.jpg') no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
